@@ -1,10 +1,11 @@
 # Верстка интернет магазина
----
 
-Верстка интернет магазина
 
-Три страницы: главная, каталог товаров и страница одного товара
+### Главная страница
 
-Верстка полностью адаптивная
+![gif image of index page](https://github.com/moshonskiy/shop-layout/blob/master/markdown/img/index.gif "Index page")
+
+
+
 
 HTML, CSS, jQuery
